@@ -6,9 +6,6 @@ layout: home
 title: About
 ---
 
-
-
-
 After the demise of promising indie rock band The Story, bass/keyboard player TW and his almost identically named henchman TB (on guitar) bounced back into action with their first post-Story effort, Goodbye To The Band.
 
 Despite losing a friend, drummer and 33% of the band during the breakup of The Story, Goodbye To The Band continued in much the same spirit with no strict rules on genre or role, and was a chance to try and hone production values due to the necessary elongation of the recording process that came about when TB moved away to the big city.
