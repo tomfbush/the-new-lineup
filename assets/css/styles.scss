@@ -1,3 +1,31 @@
 ---
 ---
+
 @import "main";
+
+body {
+  background: url('/assets/images/background-image.png') no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  color: #d5d5d5;
+}
+
+h1, h2, h3, h4, h5, h6 {
+color: #c09626;
+}
+
+.site-title, .site-title:visited {
+  color: #c09626;
+}
+
+
+a, a:link, a:hover, a:visited, a:focus, a:active, .site-nav .page-link {
+  color: #c09626;
+}
+
+div.wrapper {
+  padding-top: 2em;
+  background: rgba(9,13,14,0.88);
+}
