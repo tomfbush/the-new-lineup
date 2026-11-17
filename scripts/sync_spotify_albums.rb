@@ -36,7 +36,7 @@ end
 
 def artist_albums(token)
   albums = []
-  uri = URI("https://api.spotify.com/v1/artists/#{ARTIST_ID}/albums?include_groups=album&market=#{MARKET}&limit=50")
+  uri = URI("https://api.spotify.com/v1/artists/#{ARTIST_ID}/albums?include_groups=album&market=#{MARKET}&limit=10")
 
   while uri
     page = request_json(uri, headers: { "Authorization" => "Bearer #{token}" })
